@@ -1,0 +1,16 @@
+{
+    "name": "buckhamduffy/composer",
+    "description": "BuckhamDuffy composer package repository",
+    "homepage": "https://buckhamduffy.github.io/composer/",
+    "repositories": [
+      {
+        "packagist.org": false
+      },
+      {
+        "type": "vcs",
+        "url": "https://github.com/buckhamduffy/bd-coding-standards"
+      }
+    ],
+    "require-all": true,
+    "output-dir": "build"
+  }
