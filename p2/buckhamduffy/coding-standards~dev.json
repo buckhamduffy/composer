@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/buckhamduffy/bd-coding-standards.git",
-                    "reference": "9dce69747ffcc2980b8fb15fe365d0eda783da64"
+                    "reference": "370e4128a03e8e005903d1afe893bfa1f9200b90"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/buckhamduffy/bd-coding-standards/zipball/9dce69747ffcc2980b8fb15fe365d0eda783da64",
-                    "reference": "9dce69747ffcc2980b8fb15fe365d0eda783da64",
+                    "url": "https://api.github.com/repos/buckhamduffy/bd-coding-standards/zipball/370e4128a03e8e005903d1afe893bfa1f9200b90",
+                    "reference": "370e4128a03e8e005903d1afe893bfa1f9200b90",
                     "shasum": ""
                 },
                 "require": {
@@ -23,7 +23,7 @@
                     "rector/rector": "^0.11.47",
                     "symplify/easy-coding-standard": "^9.4"
                 },
-                "time": "2021-08-14T06:58:00+00:00",
+                "time": "2021-08-16T02:13:35+00:00",
                 "default-branch": true,
                 "type": "library",
                 "authors": [
