@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/buckhamduffy/bd-coding-standards.git",
-                    "reference": "370e4128a03e8e005903d1afe893bfa1f9200b90"
+                    "reference": "59973bfdb1f80c6b5ffc7db222f8812dbb4e92de"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/buckhamduffy/bd-coding-standards/zipball/370e4128a03e8e005903d1afe893bfa1f9200b90",
-                    "reference": "370e4128a03e8e005903d1afe893bfa1f9200b90",
+                    "url": "https://api.github.com/repos/buckhamduffy/bd-coding-standards/zipball/59973bfdb1f80c6b5ffc7db222f8812dbb4e92de",
+                    "reference": "59973bfdb1f80c6b5ffc7db222f8812dbb4e92de",
                     "shasum": ""
                 },
                 "require": {
@@ -23,13 +23,17 @@
                     "rector/rector": "^0.11.47",
                     "symplify/easy-coding-standard": "^9.4"
                 },
-                "time": "2021-08-16T02:13:35+00:00",
+                "time": "2021-08-16T02:23:06+00:00",
                 "default-branch": true,
                 "type": "library",
                 "authors": [
                     {
                         "name": "Aaron Florey",
                         "email": "aaron@buckhamduffy.com"
+                    },
+                    {
+                        "name": "Alex Buckham",
+                        "email": "alex@buckhamduffy.com"
                     }
                 ],
                 "support": {
