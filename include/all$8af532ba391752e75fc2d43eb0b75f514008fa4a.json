@@ -1,7 +1,7 @@
 {
     "packages": {
-        "buckhamduffy/coding-standards": [
-            {
+        "buckhamduffy/coding-standards": {
+            "dev-dependabot/composer/rector/rector-0.11.48": {
                 "name": "buckhamduffy/coding-standards",
                 "version": "dev-dependabot/composer/rector/rector-0.11.48",
                 "version_normalized": "dev-dependabot/composer/rector/rector-0.11.48",
@@ -40,7 +40,7 @@
                     "issues": "https://github.com/buckhamduffy/bd-coding-standards/issues"
                 }
             },
-            {
+            "dev-dependabot/composer/symplify/easy-coding-standard-9.4.32": {
                 "name": "buckhamduffy/coding-standards",
                 "version": "dev-dependabot/composer/symplify/easy-coding-standard-9.4.32",
                 "version_normalized": "dev-dependabot/composer/symplify/easy-coding-standard-9.4.32",
@@ -79,7 +79,7 @@
                     "issues": "https://github.com/buckhamduffy/bd-coding-standards/issues"
                 }
             },
-            {
+            "dev-master": {
                 "name": "buckhamduffy/coding-standards",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
@@ -119,6 +119,6 @@
                     "issues": "https://github.com/buckhamduffy/bd-coding-standards/issues"
                 }
             }
-        ]
+        }
     }
 }
