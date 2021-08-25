@@ -1,7 +1,7 @@
 {
     "packages": {
-        "buckhamduffy/coding-standards": [
-            {
+        "buckhamduffy/coding-standards": {
+            "dev-master": {
                 "name": "buckhamduffy/coding-standards",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
@@ -41,6 +41,6 @@
                     "issues": "https://github.com/buckhamduffy/bd-coding-standards/issues"
                 }
             }
-        ]
+        }
     }
 }
