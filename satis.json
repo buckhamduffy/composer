@@ -9,7 +9,10 @@
       {
         "type": "vcs",
         "url": "https://github.com/buckhamduffy/bd-coding-standards"
-      }
+      },
+      {
+          "type": "vcs",
+          "url": "https://github.com/buckhamduffy/scout-elasticsearch-driver"
     ],
     "require-all": true,
     "output-dir": "build"
