@@ -1,12 +1,13 @@
 {
     "packages": [],
     "includes": {
-        "include/all$0fa0b0016722159803b0b907beb40ce080212327.json": {
-            "sha1": "0fa0b0016722159803b0b907beb40ce080212327"
+        "include/all$4225e7293f9093d7e25d7a47d5f607f03e3a8d47.json": {
+            "sha1": "4225e7293f9093d7e25d7a47d5f607f03e3a8d47"
         }
     },
     "metadata-url": "/composer/p2/%package%.json",
     "available-packages": [
+        "babenkoivan/scout-elasticsearch-driver",
         "buckhamduffy/coding-standards"
     ]
 }
