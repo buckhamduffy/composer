@@ -1,0 +1,46 @@
+{
+    "packages": {
+        "buckhamduffy/coding-standards": {
+            "dev-master": {
+                "name": "buckhamduffy/coding-standards",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/buckhamduffy/bd-coding-standards.git",
+                    "reference": "e442e5c42e6a280641e7409e893f0d72e6746050"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/buckhamduffy/bd-coding-standards/zipball/e442e5c42e6a280641e7409e893f0d72e6746050",
+                    "reference": "e442e5c42e6a280641e7409e893f0d72e6746050",
+                    "shasum": ""
+                },
+                "require": {
+                    "nunomaduro/larastan": "^0.7.0",
+                    "php": ">=7.4",
+                    "phpstan/phpstan": "^0.12.80",
+                    "rector/rector": "^0.11.47",
+                    "symplify/easy-coding-standard": "^9.4"
+                },
+                "time": "2021-09-30T23:58:17+00:00",
+                "default-branch": true,
+                "type": "library",
+                "authors": [
+                    {
+                        "name": "Aaron Florey",
+                        "email": "aaron@buckhamduffy.com"
+                    },
+                    {
+                        "name": "Alex Buckham",
+                        "email": "alex@buckhamduffy.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/buckhamduffy/bd-coding-standards/tree/master",
+                    "issues": "https://github.com/buckhamduffy/bd-coding-standards/issues"
+                }
+            }
+        }
+    }
+}
