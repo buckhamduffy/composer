@@ -8,22 +8,22 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/buckhamduffy/bd-coding-standards.git",
-                    "reference": "e442e5c42e6a280641e7409e893f0d72e6746050"
+                    "reference": "baf8b689969fa81d0187dbe048bbbf23ffb46f8e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/buckhamduffy/bd-coding-standards/zipball/e442e5c42e6a280641e7409e893f0d72e6746050",
-                    "reference": "e442e5c42e6a280641e7409e893f0d72e6746050",
+                    "url": "https://api.github.com/repos/buckhamduffy/bd-coding-standards/zipball/baf8b689969fa81d0187dbe048bbbf23ffb46f8e",
+                    "reference": "baf8b689969fa81d0187dbe048bbbf23ffb46f8e",
                     "shasum": ""
                 },
                 "require": {
-                    "nunomaduro/larastan": "^0.7.0",
+                    "nunomaduro/larastan": "^1.0",
                     "php": ">=7.4",
-                    "phpstan/phpstan": "^0.12.80",
-                    "rector/rector": "^0.11.47",
-                    "symplify/easy-coding-standard": "^9.4"
+                    "phpstan/phpstan": "^0.12 | ^1.0",
+                    "rector/rector": "^0.13",
+                    "symplify/easy-coding-standard": "^9.4 || ^10.0 || ^11.0"
                 },
-                "time": "2021-09-30T23:58:17+00:00",
+                "time": "2022-07-15T05:31:21+00:00",
                 "default-branch": true,
                 "type": "library",
                 "authors": [
@@ -37,7 +37,7 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/buckhamduffy/bd-coding-standards/tree/master",
+                    "source": "https://github.com/buckhamduffy/bd-coding-standards/tree/v2.0",
                     "issues": "https://github.com/buckhamduffy/bd-coding-standards/issues"
                 }
             }

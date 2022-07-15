@@ -1,7 +1,7 @@
 {
     "packages": {
-        "buckhamduffy/coding-standards": [
-            {
+        "buckhamduffy/coding-standards": {
+            "v1.0": {
                 "name": "buckhamduffy/coding-standards",
                 "version": "v1.0",
                 "version_normalized": "1.0.0.0",
@@ -40,7 +40,7 @@
                     "issues": "https://github.com/buckhamduffy/bd-coding-standards/issues"
                 }
             },
-            {
+            "v2.0": {
                 "name": "buckhamduffy/coding-standards",
                 "version": "v2.0",
                 "version_normalized": "2.0.0.0",
@@ -78,7 +78,47 @@
                     "source": "https://github.com/buckhamduffy/bd-coding-standards/tree/v2.0",
                     "issues": "https://github.com/buckhamduffy/bd-coding-standards/issues"
                 }
+            },
+            "dev-master": {
+                "name": "buckhamduffy/coding-standards",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/buckhamduffy/bd-coding-standards.git",
+                    "reference": "baf8b689969fa81d0187dbe048bbbf23ffb46f8e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/buckhamduffy/bd-coding-standards/zipball/baf8b689969fa81d0187dbe048bbbf23ffb46f8e",
+                    "reference": "baf8b689969fa81d0187dbe048bbbf23ffb46f8e",
+                    "shasum": ""
+                },
+                "require": {
+                    "nunomaduro/larastan": "^1.0",
+                    "php": ">=7.4",
+                    "phpstan/phpstan": "^0.12 | ^1.0",
+                    "rector/rector": "^0.13",
+                    "symplify/easy-coding-standard": "^9.4 || ^10.0 || ^11.0"
+                },
+                "time": "2022-07-15T05:31:21+00:00",
+                "default-branch": true,
+                "type": "library",
+                "authors": [
+                    {
+                        "name": "Aaron Florey",
+                        "email": "aaron@buckhamduffy.com"
+                    },
+                    {
+                        "name": "Alex Buckham",
+                        "email": "alex@buckhamduffy.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/buckhamduffy/bd-coding-standards/tree/v2.0",
+                    "issues": "https://github.com/buckhamduffy/bd-coding-standards/issues"
+                }
             }
-        ]
+        }
     }
 }
